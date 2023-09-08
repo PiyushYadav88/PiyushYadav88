@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA in Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PiyushYadav88?tab=repositories](https://github.com/PiyushYadav88?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/PiyushYadav88](https://github.com/PiyushYadav88?tab=repositories)
 
 - 💬 Ask me about **Java , Kotlin and Android Development**
 
